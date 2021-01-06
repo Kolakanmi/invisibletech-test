@@ -4,7 +4,7 @@
   "description": "invisibletech",
   "main": "lib/index.js",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "flow-bin": "^0.111.3",
     "flow-remove-types": "^2.111.3",
     "fs-extra": "^8.1.0",
